@@ -1,2 +1,4 @@
 # Purturu
-Un juego a base de los bullet 
+El videojuego es un bullet hell que combina dos armas para poder repeler los ataques de los enemigos.
+
+ 
